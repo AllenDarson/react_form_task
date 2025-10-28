@@ -180,7 +180,7 @@ function Application() {
                     />
                   </Form.Group>
 
-                  <Button type="submit" className="btn btn-primary">
+                  <Button type="submit" className="btn btn-success">
                     <FaPaperPlane className="me-2" />Send Message
                   </Button>
                 </form>
